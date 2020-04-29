@@ -1,0 +1,7 @@
+UNIT TESTING is a level of software testing where individual units/ components of a software are tested.
+It is conducted by independent software testers
+It is a type of WhiteBox testing
+
+INTEGRATION TESTING is a level of software testing where individual units are combined and tested as a group.
+It is conducted by group of programmers
+It is a type of BlackBox testing
